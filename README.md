@@ -1,4 +1,4 @@
-# CREATE A JOB PORTAL APPLICATION USING REACT, SPRINGBOOT AND SQL
+# EXP 25 -  JOB PORTAL APPLICATION 
 
 ## AIM:
 To create a job portal application using react, springboot and sql.
