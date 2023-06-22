@@ -347,5 +347,5 @@ export default JobDeletionComponent;
 
 
 
-RESULT:
+### RESULT:
 Thus, a job portal application is developed successfully usinf react, springboot and sql.
